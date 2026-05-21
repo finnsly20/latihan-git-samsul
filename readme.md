@@ -1,5 +1,6 @@
 Nama:samsul baik hati dan tidak sombong,
-Program study:sistem informasi
+NIM:F1B250008,
+Program study:sistem informasi,
 Hoby:sport, menyanyi,bercocok tanam dan lain-lain,
 Alamat:Jl. Purwabhakti No.54, CISANINTEN, Kec. Cisewu, Kab. Garut, Jawa Barat,
 Impian:menjadi orang yang berguna bagi sesama ,
